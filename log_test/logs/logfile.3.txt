@@ -1,0 +1,3 @@
+[2023-07-03 09:35:53.105] [logger] [info] This is an info message.
+[2023-07-03 09:35:53.105] [logger] [warning] This is a warning message.
+[2023-07-03 09:35:53.105] [logger] [error] This is an error message.

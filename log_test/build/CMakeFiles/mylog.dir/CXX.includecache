@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hyl/datav/test/log_test/main.cpp
+iostream
+-
+spdlog/spdlog.h
+-
+spdlog/sinks/daily_file_sink.h
+-
+spdlog/sinks/stdout_color_sinks.h
+-
+spdlog/sinks/rotating_file_sink.h
+-
+

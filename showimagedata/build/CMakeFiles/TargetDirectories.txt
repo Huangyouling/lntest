@@ -1,0 +1,3 @@
+/home/hyl/datav/test/showimagedata/build/CMakeFiles/rebuild_cache.dir
+/home/hyl/datav/test/showimagedata/build/CMakeFiles/edit_cache.dir
+/home/hyl/datav/test/showimagedata/build/CMakeFiles/showimagedata.dir

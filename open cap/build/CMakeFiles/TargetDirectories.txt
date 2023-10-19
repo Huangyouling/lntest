@@ -1,0 +1,3 @@
+/home/hyl/datav/test/open cap/build/CMakeFiles/rebuild_cache.dir
+/home/hyl/datav/test/open cap/build/CMakeFiles/edit_cache.dir
+/home/hyl/datav/test/open cap/build/CMakeFiles/CameraCapture.dir

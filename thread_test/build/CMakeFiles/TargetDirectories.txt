@@ -1,0 +1,3 @@
+/home/hyl/datav/test/thread_test/build/CMakeFiles/rebuild_cache.dir
+/home/hyl/datav/test/thread_test/build/CMakeFiles/edit_cache.dir
+/home/hyl/datav/test/thread_test/build/CMakeFiles/threadtest.dir

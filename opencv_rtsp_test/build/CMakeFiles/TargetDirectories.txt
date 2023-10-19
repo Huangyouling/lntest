@@ -1,0 +1,5 @@
+/home/hyl/datav/test/opencv_rtsp_test/build/CMakeFiles/edit_cache.dir
+/home/hyl/datav/test/opencv_rtsp_test/build/CMakeFiles/package_source.dir
+/home/hyl/datav/test/opencv_rtsp_test/build/CMakeFiles/rebuild_cache.dir
+/home/hyl/datav/test/opencv_rtsp_test/build/CMakeFiles/package.dir
+/home/hyl/datav/test/opencv_rtsp_test/build/CMakeFiles/opencv_rtsp_test.dir

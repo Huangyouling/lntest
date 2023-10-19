@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcudaconver.a  CMakeFiles/cudaconver.dir/cudaconver_generated_cudaconver.cu.o
+/usr/bin/ranlib libcudaconver.a

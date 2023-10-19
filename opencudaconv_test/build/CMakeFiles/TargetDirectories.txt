@@ -1,0 +1,4 @@
+/home/hyl/datav/test/opencudaconv_test/build/CMakeFiles/rebuild_cache.dir
+/home/hyl/datav/test/opencudaconv_test/build/CMakeFiles/edit_cache.dir
+/home/hyl/datav/test/opencudaconv_test/build/CMakeFiles/cudaconver.dir
+/home/hyl/datav/test/opencudaconv_test/build/CMakeFiles/rgb2rgba.dir
