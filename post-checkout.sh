@@ -1,9 +1,10 @@
 #!/bin/sh
 
 # 目标目录和链接名称
-TARGET="../RTSP"
-LINK_NAME="list_test/RTSP"
+TARGET="../../RTSP"
+LINK_NAME="../../list_test/RTSP"
 
+echo "Post-checkout hook triggered!"
 # 根据操作系统确定要执行的命令
 if [ "$(uname)" == "Darwin" ] || [ "$(uname)" == "Linux" ]; then
     # macOS 或 Linux
